@@ -1,0 +1,30 @@
+INPUT 
+15 measurements 
+
+OUTPUT 
+all measurements processed 
+
+PROCESSING STEPS 
+DO WHILE 
+	number of measurements < 15 
+	receive the measurements
+	convert it into metric measurements
+	Display the measurements
+ENDO 
+
+---------------------------------------------------------
+REPEAT ......UNTIL 
+
+PROCESSING STEPS 
+REPEAT 
+		number of measurements of 15
+UNTILL 
+			condition is 15
+
+------------------------------------------------------------
+Count Repetition 
+
+PROCESSING STEPS
+DO loop-index = measurements 1 to 15
+		Statement block 
+ENDO		
